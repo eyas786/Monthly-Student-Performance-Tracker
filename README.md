@@ -7,7 +7,7 @@ A Python project that compares six students' monthly performance using line grap
 - Tracks 6 students.
 - Displays 12 months.
 - Generates random data using NumPy.
-- Creates and saves line charts.
+- Creates and saves line charts..
 
 ## Requirements
 ```bash
